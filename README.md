@@ -16,7 +16,7 @@ Education: B.Tech
 
 Skills:
 
-\- Git
+\- Git, Jenkins and DevOps
 
 \- Jenkins
 
