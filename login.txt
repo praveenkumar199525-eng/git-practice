@@ -1,0 +1,8 @@
+Login Module Requirements
+
+1. User should enter username.
+2. User should enter password.
+3. Validate credentials.
+4. Display success message after login.
+5. Display error message for invalid login.
+6. Forgot password option should be available.
